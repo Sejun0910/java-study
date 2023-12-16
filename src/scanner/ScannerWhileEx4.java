@@ -39,7 +39,7 @@ public class ScannerWhileEx4 {
                 System.out.println("프로그램을 종료합니다.");
                 break;
             } else {
-                System.out.println("올바른 옵션을 선택해주세요.");
+                System.out.println("올바른 옵션을 선택해주세요");
             }
         }
 
